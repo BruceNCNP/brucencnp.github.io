@@ -1,31 +1,44 @@
-# BruceNCNP - Independent Software Development & Utilities
+# BruceNCNP - Systems, Automation & Technical Exploration
 
-Welcome to my official digital distribution and software portfolio hub. I am an independent developer specializing in high-performance system utilities, automation scripts, and network diagnostic tools designed for developers and IT professionals.
+Welcome to my personal GitHub Pages hub. I am an independent software developer and IT systems expert with a deep-seated passion for low-level architecture, efficient scripting, and robust software environments. 
 
----
-
-## Products & Commercial Licensing
-
-I develop and maintain both open-source tools and premium commercial utilities. My paid software products are focused on enhancing productivity, optimizing local environments, and providing graphical interfaces (GUIs) for advanced technical toolkits.
-
-### General Pricing Structure
-*   **Developer Utilities & Scripts**: $9.99 - $14.99 USD (Lifetime access / Single payment)
-*   **Advanced Toolkits & Premium Software**: $19.99 - $49.99 USD (Lifetime access or subscription options)
-
-*All commercial transactions, licensing, and billing are securely handled by Paddle, our authorized Merchant of Record.*
+This space serves as the central directory for my technical portfolios, automated workflow utilities, and premium digital software distributions.
 
 ---
 
-## Customer Support & Store Policies
+## Technical Philosophy & Focus
 
-To ensure full transparency and compliance with global digital commerce standards, please review the official operation policies before purchasing a commercial license:
+My development philosophy centers around optimization, minimalism, and reliability. I believe in building tools that solve real-world efficiency bottlenecks without adding unnecessary bloat. My primary areas of exploration and development include:
 
-*   **Terms of Service**: Learn about your rights and software usage rules by reading our [Terms of Service](./terms.md).
-*   **Privacy Policy**: We highly value user privacy. Read our strict [Privacy Policy](./privacy.md) regarding local data processing.
-*   **Refund Policy**: Check our digital delivery and software activation [Refund Policy](./refund.md) details.
+*   **System Utilities & Core Infrastructure**: Writing pre-compiled binaries and tooling aimed at enhancing local runtime environments, system diagnostics, and cross-platform workflows.
+*   **Automation & Integration Ecosystems**: Designing modular scripts, middleware components, and tool wrappers that allow disjointed development systems to interact seamlessly.
+*   **Data Routing & Diagnostics**: Investigating advanced network architectures, low-latency data structures, and tech implementations that empower developers with better telemetry and control.
 
 ---
 
-## Contact & Technical Inquiries
+## Premium Software & Licensing
 
-For software activation issues, volume licensing, or technical feedback regarding any of my utilities, please contact me via the support options provided in my GitHub profile or through the Paddle checkout helpdesk.
+While I maintain a strong commitment to the open-source community by sharing core engines and testing prototypes publicly, I also distribute premium commercial editions of my software. 
+
+These premium releases are tailored for enterprise grading or advanced power users, typically featuring:
+*   Polished Graphical User Interfaces (GUIs) for seamless local configuration.
+*   Advanced performance tuning modules and granular analytical logging suites.
+*   Dedicated technical support and priority lifecycle updates.
+
+*Note: To ensure a secure, globally compliant purchasing environment, all licensing checkout services and commercial billing transactions are managed externally via Paddle, our authorized Merchant of Record.*
+
+---
+
+## Store Policies & Compliance
+
+In alignment with global digital commerce standards and platform operations, please refer to the official documentation below regarding your rights and data safety when interacting with my commercial utilities:
+
+*   **Terms of Service**: Understand your usage rights, licensing boundaries, and code stipulations by reviewing the [Terms of Service](./terms.md).
+*   **Privacy Policy**: I value zero-knowledge privacy. Read our strict [Privacy Policy](./privacy.md) regarding localized data execution and third-party payment processing.
+*   **Refund Policy**: Review our digital software delivery and activation frameworks in our [Refund Policy](./refund.md).
+
+---
+
+## Contact & Feedback
+
+For technical inquiries regarding license key verification, setup issues on specific supported operating systems, or general feature requests, feel free to reach out via the communication channels listed on my primary GitHub profile.
