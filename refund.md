@@ -2,10 +2,14 @@
 
 Last updated: July 2026
 
-## 1. Digital Delivery Framework
-Because our software components, automation scripts, and utility binaries are digitally delivered immediately upon payment (via downloadable links and electronic activation keys), all commercial sales are generally considered final once the digital delivery handshake is completed.
+## 1. 14-Day Satisfaction Guarantee
+I want every developer and IT professional to be thoroughly satisfied with the software utilities distributed here. Therefore, we offer a generous **14-day refund policy** from the date of your original purchase.
 
-## 2. Conditional Refund Exceptions
-I want to ensure a fair and functional experience for fellow developers. Refund requests will be reviewed and granted within 14 days of the original transaction under the following specific technical conditions:
-*   The issued software license key completely fails to validate or activate due to verified platform-side licensing system errors.
-*   The pre-compiled binary encounters severe, unresolvable technical conflicts on a officially supported deployment environment, and reasonable technical support cannot provide a viable patch or workaround.
+## 2. Hassle-Free Refund Conditions
+You are entitled to a refund within the 14-day window if:
+*   The pre-compiled binary or toolkit encounters unresolvable compatibility friction within your deployment environment.
+*   The software's current capabilities do not fully align with your specific workflow performance expectations.
+*   You simply conclude that the utility is not the right fit for your ongoing technical projects.
+
+## 3. Processing Adjustments
+To initiate a refund, please contact the support channels visible on my profile or submit a request directly through the checkout desk. All refunds are securely credited back via Paddle, our authorized Merchant of Record, following standard industry processing timelines.
